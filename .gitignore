@@ -1,0 +1,18 @@
+# Node modules
+node_modules/
+
+# Dependency directories
+/libraries/
+
+# Mac system files
+.DS_Store
+
+# IDE or Editor files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
